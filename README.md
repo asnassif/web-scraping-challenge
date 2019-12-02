@@ -1,6 +1,7 @@
 # web-scraping-challenge
 
-![mission_to_mars](Images/mission_to_mars.png)
+
+https://github.com/RutgersCodingBootcamp/RU-SOM-DATA-PT-08-2019-U-C/blob/master/homework/12-Web-Scraping-and-Document-Databases/Instructions/Images/mission_to_mars.png?raw=true
 
 In this assignment, you will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines what you need to do.
 
