@@ -1,5 +1,4 @@
 # web-scraping-challenge
-
 Web Scraping Homework - Mission to Mars
 mission_to_mars
 
@@ -91,6 +90,3 @@ Use Splinter to navigate the sites when needed and BeautifulSoup to help find an
 Use Pymongo for CRUD applications for your database. For this homework, you can simply overwrite the existing document each time the /scrape url is visited and new data is obtained.
 
 Use Bootstrap to structure your HTML template.
-
-Copyright
-Trilogy Education Services © 2019. All Rights Reserved.
