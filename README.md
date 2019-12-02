@@ -93,3 +93,5 @@ Use Bootstrap to structure your HTML template.
 
 Copyright
 Trilogy Education Services © 2019. All Rights Reserved.
+
+© 2019 GitHub, Inc.
